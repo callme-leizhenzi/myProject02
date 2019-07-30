@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/testdubbo.iml" filepath="$PROJECT_DIR$/.idea/testdubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdubbo-api/testdubbo-api.iml" filepath="$PROJECT_DIR$/testdubbo-api/testdubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdubbo-enitys/testdubbo-enitys.iml" filepath="$PROJECT_DIR$/testdubbo-enitys/testdubbo-enitys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdubbo-parant/testdubbo-parant.iml" filepath="$PROJECT_DIR$/testdubbo-parant/testdubbo-parant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdubbo-web1/testdubbo-web1.iml" filepath="$PROJECT_DIR$/testdubbo-web1/testdubbo-web1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdubbo-web2/testdubbo-web2.iml" filepath="$PROJECT_DIR$/testdubbo-web2/testdubbo-web2.iml" />
+    </modules>
+  </component>
+</project>
